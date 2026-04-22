@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.log
+.env.local
+.DS_Store
+Thumbs.db
+.security-store.json
+
+# Security store
+.security-store.json
